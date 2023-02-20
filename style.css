@@ -1,5 +1,9 @@
 h1{
     color: orange ;
+    background-color: paleturquoise;
+    font-size: 30px;
+    font-family: 'Lucida Grande';
+    text-align: center;
 }
  p{
     color: blueviolet;
